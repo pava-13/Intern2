@@ -61,3 +61,22 @@ Despite its benefits, cloud security comes with challenges such as:
 Cloud security implementation is not a one-time activity but a continuous process that evolves with technological changes, threat landscapes, and organizational growth. By combining strong technical controls, governance frameworks, and user education, organizations can ensure a secure and resilient cloud environment. As cloud adoption continues to grow, investing in robust cloud security is not just an IT concern—it’s a strategic business imperative.
 
 **OUTPUT**
+![Image](https://github.com/user-attachments/assets/dc60b2e4-9f31-47b3-af4d-c7ea855fe685)
+
+![Image](https://github.com/user-attachments/assets/6e00a153-f534-4b12-a132-266a3d491336)
+
+![Image](https://github.com/user-attachments/assets/74632a6a-f2d4-4f7b-ab74-b70ca2ce75ca)
+
+![Image](https://github.com/user-attachments/assets/30a5751e-bbbe-4322-9c62-add68b6a6b44)
+
+![Image](https://github.com/user-attachments/assets/bbf409ee-d676-4f93-a248-df2992487052)
+
+![Image](https://github.com/user-attachments/assets/fcf3f0a9-ca63-4f71-9477-1aa2f47db42f)
+
+![Image](https://github.com/user-attachments/assets/55d334c3-ca12-4d46-b40a-3bc8ff59e00a)
+
+![Image](https://github.com/user-attachments/assets/f1b44b93-88b3-4261-a86e-6aafdefeae94)
+
+![Image](https://github.com/user-attachments/assets/b309c277-a84d-4370-a4cf-d10d37c37e55)
+
+![Image](https://github.com/user-attachments/assets/b33a2158-2293-4c69-8fd3-1c50fe2a7780)
